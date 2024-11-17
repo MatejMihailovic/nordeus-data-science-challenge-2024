@@ -22,9 +22,13 @@ have shown they can be active, which helps us understand their needs and expecta
 
 ## Data description
 There are four datasets:
+
 ● previous_lives_training_data.csv
+
 ● registration_data_training.csv
+
 ● previous_lives_test_data.csv
+
 ● registration_data_test.csv (similar as training dataset, but without target variable)
 
 You can find the variable descriptions below. Some variables are present in both datasets (registration
