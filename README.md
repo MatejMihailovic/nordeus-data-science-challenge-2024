@@ -1,5 +1,7 @@
 # Data Science Challenge - Predicting User Activity
 
+:trophy: **3rd Place**
+
 ## About the challenge
 A typical Data Science project involves multiple phases, including identifying business opportunities,
 formalizing the problem, gathering and processing data, developing and training the model, and
